@@ -1,12 +1,33 @@
 h1{
     color: darkgreen;
-    background-color: grey;
+    background-color: rgb(242, 229, 229);
 }
 .intro{
-    background-color: aqua;
+    background-color: rgb(145, 200, 200);
     font-size: large;
 }
 #format{
     color: darkgreen;
     background-color: honeydew;
+}
+.testPara{
+    color: chocolate;
+    background-color: antiquewhite;
+}
+.odiPara{
+    color: black;
+    background-color: rgb(131, 162, 100);
+}
+.t20Para{
+    color: darkblue;
+    background-color: rgb(207, 142, 63);
+}
+#summary{
+    color:black;
+    background-color: burlywood;
+    text-align: center;
+}
+.sum{
+    background-color: moccasin;
+
 }
