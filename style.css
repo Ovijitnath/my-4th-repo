@@ -5,6 +5,7 @@ h1{
 .intro{
     background-color: rgb(145, 200, 200);
     font-size: large;
+    
 }
 #format{
     color: darkgreen;
@@ -30,4 +31,8 @@ h1{
 .sum{
     background-color: moccasin;
 
+}
+.collection{
+    text-align: center;
+    font-family: fantasy;
 }
